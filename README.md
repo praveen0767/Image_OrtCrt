@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Image Background Removal and Orientation Correction
 This project provides a Python script that:
 
@@ -142,3 +143,7 @@ License
 This project is for personal use and provided as-is. Ensure you have the necessary licenses for the input images and libraries used.
 Contact
 For issues or questions, please provide error messages and details about your setup (e.g., Python version, input image characteristics).
+=======
+# Image_OrtCrt
+This repository is Created to Store Image Orientation correction Project based code
+>>>>>>> b01126cab86b0915df4eb354b0055840f62ef8b5
